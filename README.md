@@ -6,3 +6,5 @@ This was a project where I put an emphasis on speed to see how much I could comp
 Due to the emphasis on speed, there are a lot of graphical design aspects I'd like to rework, but it met their needs and more and was something I was merely doing as a favor to them free of charge. 
 
 The actual layout itself is rather unique to their needs, so not something I imagine people could use as is. If there are any blank spots where it seems data should have been, this was because I removed any identifying numbers/details that would hint at their company or private information.
+
+Expected paper size is 8.5 x 11
